@@ -1,0 +1,15 @@
+* TOGAF     
+    * 什么是架构  
+* DDD   
+    * 如何重构 
+    * [战略设计](/methodology/DDD/DDD领域驱动设计-战略设计.md)
+* 设计模式   
+    * [云原生设计模式](/methodology/Pattern/PatternForCloudNative.md)
+* sAFE
+    * 架构演进 
+* 敏捷
+    * 架构演进 
+* 系统工程
+  * [技术洞察](/methodology/SystemEngineering/技术洞察_1.md)
+* 效率提升
+    * 十倍效率个人   
